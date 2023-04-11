@@ -14,4 +14,4 @@
   <img align="center" alt="PS" height="35" width="35" src="https://user-images.githubusercontent.com/88800479/231277249-b2bfe659-19a7-4343-899c-4c1b945cc7a6.png">
 </div>
 
-![Snake animation](https://github.com/RyanOlivrdev/ryanolivrdev/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/ropasquim/ropasquim/blob/output/github-contribution-grid-snake.svg)

@@ -1,6 +1,8 @@
 ## hello world, i'm Rodrigo
+
 <div>
   <a href="https://github.com/ropasquim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropasquim&langs_count=12&layout=compact&bg_color=0D1117&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ropasquim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
   
@@ -13,3 +15,4 @@
   <img align="center" alt="PS" height="35" width="35" src="https://user-images.githubusercontent.com/88800479/231277249-b2bfe659-19a7-4343-899c-4c1b945cc7a6.png">
 </div>
 
+![Snake animation](https://github.com/RyanOlivrdev/ryanolivrdev/blob/output/github-contribution-grid-snake.svg) 

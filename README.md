@@ -1,8 +1,9 @@
 
-<img src="https://github.com/fgalmeida/fgalmeida/blob/main/Image/developer_activity.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dev Activity">
+<img src="https://media.tenor.com/r77Sc4J25JMAAAAC/banner.gif" min-width="400px" max-width="400px" width="400px" align="right" >
 
 <p align="left"> 
-  Hi, welcome! my name is <strong>Rodrigo Pasquim</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
+  Hi, welcome! my name is <strong>Rodrigo Pasquim</strong>
+  <img src="https://komarev.com/ghpvc/?username=ropasquim&color=605de0&style=flat-square&label=Views" align="center" alt="Views"><br>
   
 
  > Sobre mim: <br> TEXTO AQUI

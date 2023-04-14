@@ -1,13 +1,27 @@
-## hello world, i'm Rodrigo
 
-<div>
-  <a href="https://github.com/ropasquim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ropasquim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
+<img src="https://github.com/fgalmeida/fgalmeida/blob/main/Image/developer_activity.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Dev Activity">
+
+<p align="left"> 
+  Hi, welcome! my name is <strong>Rodrigo Pasquim</strong><img src="https://komarev.com/ghpvc/?username=fgalmeida&color=6C63FF&style=flat-square&label=Views" align="right" alt="Views"><br>
   
-###    ➥ Programming Languages and Tools
+
+ > Sobre mim: <br> TEXTO AQUI
+</p>
+
+
+<!--
+   <div>  
+       <a href="https://github.com/ropasquim">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?
+       username=ropasquim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+   </div>
+-->
+
+<br>
+
+**Programming Languages and Tools**
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
